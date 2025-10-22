@@ -1,5 +1,5 @@
 # Credit-Risk-Prediction-for-Small-Business-Loans
-##1. Project Overview
+1. Project Overview
 
 This project focuses on predicting the likelihood of default for small business loans using historical data from the U.S. Small Business Administration (SBA).
 The objective is to build a credit risk model that can flag high-risk loans at the time of approval, enabling lenders to make informed decisions and reduce potential losses.
